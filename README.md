@@ -8,7 +8,7 @@ An application to help you organize your thoughts by writing them down so you wo
 ## User Story
 
 - AS A small business owner
-- I WANT to be able to wuite and save notes
+- I WANT to be able to write and save notes
 - SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Screenshots
